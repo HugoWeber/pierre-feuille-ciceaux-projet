@@ -18,3 +18,10 @@ Le joueur choisis en même temps que l'ordi un objet entre: la pierre, la feuill
 A la fin de la partie l'un des deux joueurs gagne la partie.  
 Ou alors c'est une égalité si ils choisissent tout deux le même objet.  
 
+
+Pramme:  
+
+def regle():
+    print("La Pierre bat les Ciseaux\n\nLa Feuille bat la Pierre\n\nLes Ciseaux battent la Feuille\n\nSi vous et l'ordinateur avez\nle meme objet, il y a egalite")
+
+
